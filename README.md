@@ -1,2 +1,2 @@
 # AppCitasClient
-Angular Front-end for Appcitas app
+Curso de Angular para ICI de decimo semestre.
