@@ -1,4 +1,4 @@
-import { Component, OnInit,Input, EventEmitter } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { User } from './_models/user';
 import { AccountService } from './_services/account.service';
 
@@ -8,8 +8,6 @@ import { AccountService } from './_services/account.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  @Input() cancelRegister = new EventEmitter();
-
   title = 'Mi Primer Cita';
   users: any;
 

@@ -1,2 +1,2 @@
-# AppCitasClient
-Curso de Angular para ICI de decimo semestre.
+# AppCitas
+Proyecto SW ICI 2022
